@@ -352,6 +352,7 @@ http://localhost/rce.php?cmd=id
 ~~~
 
 Si la mitigación funciona, se debería ver el mensaje "Comando no permitido." en pantalla. o en el caso de que utilizamos el entorno de pruebas, el error php:
+![](images/20.png)
 
 
 ## ENTREGA
